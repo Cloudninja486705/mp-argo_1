@@ -1,0 +1,11 @@
+project_name = "prateek"
+project_suffix = "shared"
+region = "us-east-1"
+vpc_id_1 = "" 
+vpc_id_2 = ""
+vpc_cidr_1 = "10.140.0.0/16"
+vpc_cidr_2 = "10.150.0.0/16"
+vpc_id_1_rt_ids = [""]
+vpc_id_2_rt_ids = [""]
+vpc_1_sg_id = ""
+vpc_2_sg_id = ""

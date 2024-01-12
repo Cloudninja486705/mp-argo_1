@@ -1,0 +1,12 @@
+project_name = "mpargo"
+project_suffix = "eks1"
+vpc_cidr = "10.140.0.0/16"
+public_cidrs  = ["10.140.128.0/24", "10.140.129.0/24"]
+private_cidrs = ["10.140.0.0/18", "10.140.64.0/18"]
+k8s_version = "1.28"
+ondemand_services_instance = ["t3a.medium"]
+ondemand_services_desired_size = "1"
+ondemand_services_max_size = "1"
+ondemand_services_min_size = "1"
+ondemand_services_disk_size = "10"
+region = "ap-southeast-2"

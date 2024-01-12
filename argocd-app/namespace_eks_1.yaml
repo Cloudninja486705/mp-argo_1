@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Parthmonga/argoquickstart.git
+    repoURL: https://github.com/Cloudninja486705/mp-argo_1.git
     targetRevision: main
     path: kubernetes-config/
   destination:
